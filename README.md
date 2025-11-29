@@ -1,7 +1,7 @@
 # Clinical-Trial-Analytics-Dashboard-Power-BI
-# 🧬 Clinical Trial Analytics Dashboard (Power BI)
+# Clinical Trial Analytics Dashboard (Power BI)
 
-## 📌 Project Overview  
+## Project Overview  
 This project presents a complete **Clinical Trial Analytics Dashboard** built using **Power BI** and a fully synthetic, patient-level clinical trial dataset (1200 subjects, 15 sites, 10 planned visits).  
 The dataset mimics real-world CDISC-style domains and demonstrates analytics typically performed in clinical trials and CRO environments.
 
@@ -11,11 +11,11 @@ This project showcases skills relevant for:
 - Healthcare Data Analyst  
 - Product/Business Analyst (Healthcare)  
 - Real-World Evidence / Biometrics Teams  
-- Data Analyst roles in pharma, CROs, and healthcare organizations  
+- Data Analyst roles in pharma, CROs, and healthcare organisations  
 
 ---
 
-## 🎯 Key Dashboard Features
+## Key Dashboard Features
 
 ### **1️⃣ Study Overview**
 - Total subjects, treatment arms, countries, and sites  
@@ -44,7 +44,7 @@ This project showcases skills relevant for:
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 This project uses a **synthetic but realistic clinical trial dataset** generated to resemble CDISC SDTM-like structures.
 
@@ -52,7 +52,7 @@ This project uses a **synthetic but realistic clinical trial dataset** generated
 
 | File Name        | Description |
 |------------------|-------------|
-| `dm.csv`         | Demographics: age, sex, race, site, arm, randomization date |
+| `dm.csv`         | Demographics: age, sex, race, site, arm, randomisation date |
 | `sites.csv`      | Site metadata: country, region, investigator |
 | `randomization.csv` | Treatment arm allocation + stratification |
 | `visits.csv`     | Planned vs actual visit dates, completion, window flag |
@@ -70,7 +70,7 @@ This project uses a **synthetic but realistic clinical trial dataset** generated
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Power BI Desktop**  
 - **Power Query / DAX**  
@@ -79,4 +79,4 @@ This project uses a **synthetic but realistic clinical trial dataset** generated
 
 ---
 
-## 🗃️ Folder Structure
+## Folder Structure
