@@ -1,5 +1,4 @@
 # Clinical-Trial-Analytics-Dashboard-Power-BI
-# Clinical Trial Analytics Dashboard (Power BI)
 
 ## Project Overview  
 This project presents a complete **Clinical Trial Analytics Dashboard** built using **Power BI** and a fully synthetic, patient-level clinical trial dataset (1200 subjects, 15 sites, 10 planned visits).  
@@ -76,7 +75,3 @@ This project uses a **synthetic but realistic clinical trial dataset** generated
 - **Power Query / DAX**  
 - **Python (for dataset generation)**  
 - **CSV / Excel**  
-
----
-
-## Folder Structure
